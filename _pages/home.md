@@ -12,7 +12,7 @@ permalink: /
 
 We leverage multi-scale modeling methods to evaluate the next-generation materials for gas purification/separation, energy storage, and catalysis (see [Research](research)).
 
-2020년 9월, 우리 연구실은 한국연구재단, BK21 FOUR, 한국생산기술연구소 동남본부와 울산본부의 지원을 받고 있습니다. 컴퓨터 자원은 한국과학기술정보연구원으로 부터 지원 받고 있습니다.
+2020년 9월, 우리 연구실은 **한국연구재단**, **BK21 FOUR**, **산업통상자원부**, **한국생산기술연구소 동남본부, 울산본부**의 지원을 받고 있습니다. 컴퓨터 자원은 **한국과학기술정보연구원 (KISTI)**으로 부터 지원 받고 있습니다.
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/NRF-korea.png" style="width: 200px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/KITECH.jpg" style="width: 200px">
