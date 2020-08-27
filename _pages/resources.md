@@ -9,8 +9,8 @@ permalink: /resources/
 Link last updated on August, 2020
 
 ### Databases of Materials
-- [LBNL MaterialsProject](https://materialsproject.org/)
 - [CoRE MOF](https://cmcp-group.github.io/CoRE-MOFs/)
+- [CSD MOF subset](https://sites.google.com/view/csdmofsubset/home)
 - [ToBaCCo MOF](https://github.com/tobacco-mofs/tobacco_3.0)
 - [CURATED-COF](https://github.com/danieleongari/CURATED-COFs)
 - [OQMD](http://oqmd.org/)
@@ -19,6 +19,7 @@ Link last updated on August, 2020
 - [NOMAD](https://nomad-lab.eu/)
 - [SMACT](https://github.com/WMD-group/SMACT)
 - [Materials Cloud](https://www.materialscloud.org/explore/menu)
+- [LBNL MaterialsProject](https://materialsproject.org/)
 
 ### General Atomistic Simulation Softwares
 - [RASPA](https://github.com/iRASPA/RASPA2)
@@ -116,6 +117,7 @@ Link last updated on August, 2020
 
 ### MISC
 - [Markdown Guide](https://www.markdownguide.org/)
+- [CSD Access Structure](https://www.ccdc.cam.ac.uk/structures/)
 - [Matplotlib Cheatsheet](https://github.com/matplotlib/cheatsheets)
 - [LaTex Table Generator](https://www.tablesgenerator.com/)
 - [GROMACS MD Tutorial](http://www.mdtutorials.com/index.html)
