@@ -6,7 +6,7 @@ permalink: /resources/
 ---
 #### Useful software tools and on-line references related to what we do in our lab.
 
-Link last updated on August, 2020
+Link last updated on September, 2020
 
 ### Databases of Materials
 - [CoRE MOF](https://cmcp-group.github.io/CoRE-MOFs/)
