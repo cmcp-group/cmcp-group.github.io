@@ -8,7 +8,7 @@ permalink: /
 
 **계산소재 및 화학공정 연구실에 오신 것을 환영합니다!**
 
-우리 연구실은 다차원 전산모사 기법과 머신러닝/AI 기법을 바탕으로 차세대 소재들을 활용한 에너지 저장, 가스 정제/분리, 촉매 전환 반응에 대한 기초 및 응용 연구들을 수행하고 있습니다.
+우리 연구실은 다차원 분자모델링과 머신러닝/AI 기법들을 바탕으로 차세대 소재들을 활용한 에너지 저장, 가스 정제/분리, 촉매 전환 반응에 대한 기초 및 응용 연구들을 수행하고 있습니다.
 
 We leverage multi-scale modeling methods combined with Machine Learning (ML) and Artificial Intelligent (AI) to model the next-generation materials for gas purification/separation, energy storage, and catalysis (see [Research](research)).
 
