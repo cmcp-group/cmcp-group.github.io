@@ -26,10 +26,10 @@ We leverage multi-scale modeling methods to evaluate the next-generation materia
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
 
-        <div class="item">
         <div class="item active">
-        <img src="{{ site.url }}{{ site.baseurl }}/images/front_page/2020-BET-ML.png" alt="Slide 1" />
+          <img src="{{ site.url }}{{ site.baseurl }}/images/front_page/2020-BET-ML.png" alt="Slide 1" />
         </div>
+        <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/front_page/2019-CoRE-MOF.png" alt="Slide 2" />
         </div>
         <div class="item">
