@@ -38,10 +38,10 @@ We leverage multi-scale modeling methods to evaluate the next-generation materia
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/front_page/2019-ACS-AMI-Xylene.png" alt="Slide 4" />
         </div>
-        <div class="item active">
+        <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/front_page/2019-BET-ESW.png" alt="Slide 5" />
         </div>
-        <div class="item active">
+        <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/front_page/2017-Hexane-Isomer.png" alt="Slide 6" />
         </div>
     </div>
