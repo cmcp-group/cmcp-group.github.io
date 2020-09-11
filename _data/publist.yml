@@ -33,7 +33,7 @@
 - title: "The origin of p-xylene selectivity in a DABCO pillar-layered metal-organic framework: a combined experimental and computational investigation"
   authors:
     Seung-Ik Kim<sup>†</sup>, Seulchan Lee<sup>†</sup>, Yongchul G. Chung<sup>*</sup>, Youn-Sang Bae<sup>*</sup>
-  journal: ACS Applied Materials Interface
+  journal: ACS Applied Materials & Interface
   journal_pagination: 11, 34, 31227 - 31236
   year: 2019
   doi: 10.1021/acsami.9b11343
@@ -114,7 +114,7 @@
   doi: 10.1016/S1872-2067(17)62916-4
   fund: NRF-2016R1D1A1B03934484
 
-- title: "High-Throughput Computational Screening of Multivariate Metal–Organic Frameworks (MTV-MOFs) for CO<sub>2</sub> Capture</b>"
+- title: "High-Throughput Computational Screening of Multivariate Metal–Organic Frameworks (MTV-MOFs) for CO<sub>2</sub> Capture"
   authors:
     Song Li, Yongchul G. Chung, Cory M. Simon, Randall Q. Snurr<sup>*</sup>
   journal: "Journal of Physical Chemistry Letters"
