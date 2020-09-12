@@ -23,6 +23,6 @@ permalink: /openings/
 - 임용기간: 1+1 (최대 2년). 개인적 사정에 따른 조절 가능.
 - 급여조건: 협의
 
-### **2. 학부연구생 (Undergraduate Research Interns)**
+### **2. 학부연구생 (Undergraduate Research Intern)**
 
 (2020/9/13) 2020년 겨울방학때 참여할 학부연구생 1명을 모집 중입니다. 관심 있는 학생은 정용철 교수님 (drygchung@gmail.com)에게 이력서 및 자기소개를 보내기 바랍니다.
