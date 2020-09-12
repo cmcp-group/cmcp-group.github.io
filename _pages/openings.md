@@ -5,7 +5,7 @@ excerpt: "Computational Materials and Chemical Processes Lab -- Opening"
 sitemap: false
 permalink: /openings/
 ---
-1. ### **박사후 연구원 (Postdoctoral Fellows) 1 명**
+###1. **박사후 연구원 (Postdoctoral Fellows) 1 명**
 
 (2020/9/13) "저온 암모니아 합성 및 분해" 프로젝트를 수행 할 박사후 연구원 (DFT기반 촉매반응 계산)을 모집 중입니다.
 
@@ -23,6 +23,6 @@ permalink: /openings/
 - 임용기간: 1+1 (최대 2년). 개인적 사정에 따른 조절 가능.
 - 급여조건: 협의
 
-2. ### **학부연구생 (Undergraduate Research Interns)**
+###2. **학부연구생 (Undergraduate Research Interns)**
 
 (2020/9/13) 2020년 겨울방학때 참여할 학부연구생 1명을 모집 중입니다. 관심 있는 학생은 정용철 교수님 (drygchung@gmail.com)에게 이력서 및 자기소개를 보내기 바랍니다.
