@@ -9,7 +9,7 @@ permalink: /research/
 
 우리 연구실은 다음 연구 주제들에 대해 연구하고 있습니다.
 
-- 머신러닝/AI/빅데이터 기반 다공성 신소재 구조 분석 및 성능 연구 (Performance/Structure Analyses of Nanoporous Materials using ML/AI/Big Data)
+- ML/AI/Big Data 기반 다공성 신소재 구조 분석 및 성능 연구 (Performance and Structural Analyses of Nanoporous Materials using ML/AI/Big Data)
 - 차세대 가스 분리/정제를 위한 멀티스케일 흡착 공정 시스템 모델링 및 오픈소스 소프트웨어 개발 연구 (Multi-scale Adsorbent Systems Modeling and Open-source Software Development for Next-Generation Gas Separation/Purification)
 - 이차원 소재의 광화학 센서 연구 (2D Materials for Chemical Sensing)
 - 폴리올레핀 중합 반응 연구 (Metallocene Catalysis for Polyolefin Polymerization)
