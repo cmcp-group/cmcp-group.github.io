@@ -19,6 +19,7 @@ Position is for 12 months with a possibility of renewal for the second year.
 - Expertise in computational chemistry such as DFT methods (Quantum Espresso, CP2K, VASP, FHI-AIM, etc), molecular dynamics (LAMMPS, GROMACS, etc), and Monte Carlo methods.
 - Expertise in catalysis is highly desirable but not required.
 - Publication track records for the last 3 years.
+- **Due to COVID19, preference will be given to a candidate who is in Korea by the time of appointment.**
 
 **Applications:** Cover letter, detailed CV and contact information for up to three references should be sent to Dr. Yongchul G. Chung (drygchung@gmail.com)
 
