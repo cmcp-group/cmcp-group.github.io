@@ -8,6 +8,7 @@ permalink: /openings/
 ### **1. 박사후연구원 (Postdoctoral Fellow)**
 
 **2020/9/13**
+
 We have an **immediate opening** for **a postdoctoral fellow position** with a background in periodic DFT and catalysis to work on the "Low-Temperature Ammonia Synthesis and Decomposition" project funded by the Alchemist Project. The position involves strong collaboration with experimentalists at [KIER](https://www.kier.re.kr/eng/).
 
 Position is for 12 months with a possibility of renewal for the second year.
@@ -42,6 +43,7 @@ Position is for 12 months with a possibility of renewal for the second year.
 ### **2. 석박통합 및 석사과정 대학원생 (Graduate Students)**
 
 **2020/9/13**
+
 계산소재 및 촉매반응 분야에 관심이 높은 대학원생 (석사, 박사, 석박통합)을 모집합니다. 관심 있는 학생들은 정용철 교수님 (drygchung@gmail.com)께 이력서 및 자기소개를 보내기 바랍니다!
 
 **모집분야**
@@ -66,4 +68,5 @@ Position is for 12 months with a possibility of renewal for the second year.
 ### **3. 학부연구생 (Undergraduate Research Intern)**
 
 **2020/9/13**
+
 2020년 겨울방학때 참여할 학부연구생 1명을 모집 중입니다. 관심 있는 학생은 정용철 교수님 (drygchung@gmail.com)께 이력서 및 자기소개를 보내기 바랍니다.
