@@ -15,7 +15,7 @@ Position is for 12 months with a possibility of renewal for the second year.
 **Preferred Starting date:** October 2020, but no later than December 2020.
 
 **Potential Candidates** should have a strong background in computational chemistry and catalysis:
-- Expertise in computational chemistry such as DFT methods, molecular dynamics, and Monte Carlo methods.
+- Expertise in computational chemistry such as DFT methods (Quantum Espresso, CP2K, VASP, FHI-AIM, etc), molecular dynamics (LAMMPS, GROMACS, etc), and Monte Carlo methods.
 - Expertise in catalysis is highly desirable but not required.
 - Publication track records for the last 3 years.
 
