@@ -27,7 +27,7 @@ Position is for 12 months with a possibility of renewal for the second year.
 
 **응모자격**
 - 관련 전공분야 (화공,화학,재료,물리) 박사학위 소지자 또는 박사 졸업 예정 자.
-- 최근 3년 이내 SCI논문 주저자로 게재 실적이 있는 자.
+- 최근 3년 이내 SCIE논문 주저자로 게재 실적이 있는 자.
 - Periodic DFT 소프트웨어 (Quantum Espresso, CP2K, VASP등)기반 계산 결과로 논문 작성 경험 있는 자.
 - 촉매 설계 또는 촉매 공학 관련 연구 경험 우대.
 
