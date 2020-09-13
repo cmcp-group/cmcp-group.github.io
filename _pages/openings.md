@@ -17,19 +17,20 @@ Position is for 12 months with a possibility of renewal for the second year.
 
 **Due to COVID19, preference will be given to a candidate who is in Korea by the time of appointment.**
 
-**Potential Candidates** should have a strong background in computational chemistry and catalysis:
+**Potential Candidate** should have a strong background in computational chemistry and catalysis:
 - Expertise in computational chemistry such as DFT methods (Quantum Espresso, CP2K, VASP, FHI-AIM, etc), molecular dynamics (LAMMPS, GROMACS, etc), and Monte Carlo methods.
 - Expertise in catalysis is highly desirable but not required.
 - Publication track records for the last 3 years.
 
 **Applications:** Cover letter, detailed CV and contact information for up to three references should be sent to Dr. Yongchul G. Chung (drygchung@gmail.com)
 
-산업통상자원부 알키미스트 "저온 암모니아 합성 및 분해" 프로젝트를 수행 할 박사후연구원 (DFT기반 촉매반응계산)을 모집 중입니다.
+산업통상자원부 알키미스트 "저온 암모니아 합성 및 분해" 프로젝트를 수행 할 **박사후연구원 1명**을 모집 중입니다.
 
 **응모자격**
 - 관련 전공분야 (화공,화학,재료,물리) 박사학위 소지자 또는 박사 졸업 예정 자.
 - 최근 3년 이내 SCI논문 주저자로 게재 실적이 있는 자.
 - Periodic DFT 소프트웨어 (Quantum Espresso, CP2K, VASP등)기반 계산 결과로 논문 작성 경험 있는 자.
+- 촉매 설계 또는 촉매 공학 관련 연구 경험 우대.
 
 **근무조건**
 - 근무지: 부산대학교 화공생명공학부
