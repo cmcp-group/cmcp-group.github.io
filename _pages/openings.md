@@ -7,6 +7,7 @@ permalink: /openings/
 ---
 ### **1. 박사후연구원 (Postdoctoral Fellow)**
 
+**2020/9/13**
 We have an **immediate opening** for **a postdoctoral fellow position** with a background in periodic DFT and catalysis to work on the "Low-Temperature Ammonia Synthesis and Decomposition" project funded by the Alchemist Project. The position involves strong collaboration with experimentalists at [KIER](https://www.kier.re.kr/eng/).
 
 Position is for 12 months with a possibility of renewal for the second year.
@@ -20,7 +21,7 @@ Position is for 12 months with a possibility of renewal for the second year.
 
 **Applications:** Cover letter, detailed CV and contact information for up to three references should be sent to Dr. Yongchul G. Chung (drygchung@gmail.com)
 
-**2020/9/13** 산업통상자원부 알키미스트 "저온 암모니아 합성 및 분해" 프로젝트를 수행 할 박사후연구원 (DFT기반 촉매반응계산)을 모집 중입니다.
+산업통상자원부 알키미스트 "저온 암모니아 합성 및 분해" 프로젝트를 수행 할 박사후연구원 (DFT기반 촉매반응계산)을 모집 중입니다.
 
 **응모자격**
 - 관련 전공분야 (화공,화학,재료,물리) 박사학위 소지자 또는 박사 졸업 예정 자.
@@ -40,7 +41,8 @@ Position is for 12 months with a possibility of renewal for the second year.
 
 ### **2. 석박통합 및 석사과정 대학원생 (Graduate Students)**
 
-**2020/9/13** 계산소재 및 촉매반응 분야에 관심이 높은 대학원생 (석사, 박사, 석박통합)을 모집합니다. 관심 있는 학생들은 정용철 교수님 (drygchung@gmail.com)께 이력서 및 자기소개를 보내기 바랍니다!
+**2020/9/13**
+계산소재 및 촉매반응 분야에 관심이 높은 대학원생 (석사, 박사, 석박통합)을 모집합니다. 관심 있는 학생들은 정용철 교수님 (drygchung@gmail.com)께 이력서 및 자기소개를 보내기 바랍니다!
 
 **모집분야**
 1. 계산화학 기반 촉매 설계 및 반응공학 (석/박 통합과정 1명)
@@ -63,4 +65,5 @@ Position is for 12 months with a possibility of renewal for the second year.
 
 ### **3. 학부연구생 (Undergraduate Research Intern)**
 
-**2020/9/13** 2020년 겨울방학때 참여할 학부연구생 1명을 모집 중입니다. 관심 있는 학생은 정용철 교수님 (drygchung@gmail.com)께 이력서 및 자기소개를 보내기 바랍니다.
+**2020/9/13**
+2020년 겨울방학때 참여할 학부연구생 1명을 모집 중입니다. 관심 있는 학생은 정용철 교수님 (drygchung@gmail.com)께 이력서 및 자기소개를 보내기 바랍니다.
