@@ -7,11 +7,20 @@ permalink: /openings/
 ---
 ### **1. 박사후연구원 (Postdoctoral Fellow)**
 
-**2020/9/13** 산업통상자원부 알키미스트 "저온 암모니아 합성 및 분해" 프로젝트를 수행 할 박사후연구원 (DFT기반 촉매반응계산)을 모집 중입니다.
+We have an **immediate opening** for **a postdoctoral fellow position** with a background in periodic DFT and catalysis to work on the "Low-Temperature Ammonia Synthesis and Decomposition" project funded by the Alchemist Project. The position involves strong collaboration with experimentalists at [KIER](https://www.kier.re.kr/eng/).
 
-**제출서류 및 방법**
-- 필요서류: 이력서 (자유양식), 자기소개서 (자유양식)
-- 제출방법: drygchung@gmail.com 로제출
+Position is for 12 months with a possibility of renewal for a second year.
+
+Starting date from October 2020, but no later than December 2020.
+
+**Potential Candidates** should have a strong background in computational chemistry and catalysis:
+- Expertise in computational chemistry such as DFT methods, molecular dynamics, and Monte Carlo methods.
+- Expertise in catalysis is highly desirable but not required.
+- Publication track records for the last 3 years.
+
+**Applications:** Cover letter, detailed CV and contact information for up to three references should be sent to Dr. Yongchul G. Chung (drygchung@gmail.com)
+
+**2020/9/13** 산업통상자원부 알키미스트 "저온 암모니아 합성 및 분해" 프로젝트를 수행 할 박사후연구원 (DFT기반 촉매반응계산)을 모집 중입니다.
 
 **응모자격**
 - 관련 전공분야 (화공,화학,재료,물리) 박사학위 소지자 또는 박사 졸업 예정 자.
@@ -23,6 +32,11 @@ permalink: /openings/
 - 근무시작일: 10월 이후로 협의하여 조절
 - 임용기간: 1+1 (최대 2년). 개인적 사정에 따른 조절 가능.
 - 급여조건: 협의
+
+**제출서류 및 방법**
+- 필요서류: 이력서 (자유양식), 자기소개서 (자유양식)
+- 제출방법: drygchung@gmail.com 로제출
+
 
 ### **2. 석박통합 및 석사과정 대학원생 (Graduate Students)**
 
