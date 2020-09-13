@@ -11,7 +11,7 @@ We have an **immediate opening** for **a postdoctoral fellow position** with a b
 
 Position is for 12 months with a possibility of renewal for the second year.
 
-Preferred Starting date: October 2020, but no later than December 2020.
+**Preferred Starting date:** October 2020, but no later than December 2020.
 
 **Potential Candidates** should have a strong background in computational chemistry and catalysis:
 - Expertise in computational chemistry such as DFT methods, molecular dynamics, and Monte Carlo methods.
