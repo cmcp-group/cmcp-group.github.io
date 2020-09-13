@@ -9,9 +9,9 @@ permalink: /openings/
 
 We have an **immediate opening** for **a postdoctoral fellow position** with a background in periodic DFT and catalysis to work on the "Low-Temperature Ammonia Synthesis and Decomposition" project funded by the Alchemist Project. The position involves strong collaboration with experimentalists at [KIER](https://www.kier.re.kr/eng/).
 
-Position is for 12 months with a possibility of renewal for a second year.
+Position is for 12 months with a possibility of renewal for the second year.
 
-Starting date from October 2020, but no later than December 2020.
+Preferred Starting date: October 2020, but no later than December 2020.
 
 **Potential Candidates** should have a strong background in computational chemistry and catalysis:
 - Expertise in computational chemistry such as DFT methods, molecular dynamics, and Monte Carlo methods.
