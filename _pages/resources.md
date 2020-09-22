@@ -52,6 +52,7 @@ Link last updated on September, 2020
 - [QE input generator](https://www.materialscloud.org/work/tools/qeinputgenerator) (QE input generator)
 - [PackMol](http://m3g.iqm.unicamp.br/packmol/home.shtml) (prepares input geometry for MD simulations)
 - [Layerd Materials Setup with GROMACS](https://erastova.xyz/teaching/practical-simulations-for-molecules-and-materials/material-simulations/material-simulations-set-up/)
+- [stk: Supramolecular Toolkit](https://github.com/supramolecular-toolkit/stk)
 
 ### Softwares and Datasets for Adsorption Science
 - [Zeo++](http://zeoplusplus.org/) (high-throughput script for porous materials properties)
