@@ -96,6 +96,7 @@ Link last updated on September, 2020
 - [USPEX](https://uspex-team.org/en)
 - [TopCryst](https://topcryst.com/) (crystal topology determination)
 - [ELATE](http://progs.coudert.name/elate) (mechanical properties analysis)
+- [pyWindow](https://github.com/marcinmiklitz/pywindow) (Cage window size analysis)
 
 ### Software for Electronic Structure Calculations
 - [kgrid](https://github.com/WMD-group/kgrid) (k-point density calculation from the input geometry for periodic quantum chemistry calculations)
