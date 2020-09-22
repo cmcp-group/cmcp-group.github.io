@@ -21,7 +21,7 @@ Position is for 12 months with a possibility of renewal for the second year.
 - Expertise in computational chemistry such as DFT methods (Quantum Espresso, CP2K, VASP, FHI-AIMs, etc), molecular dynamics (LAMMPS, GROMACS, etc), and Monte Carlo methods.
 - Publication track records for the last 3 years.
 
-**Applications:** Cover letter, detailed CV and contact information for up to three references should be sent to Dr. Yongchul G. Chung (drygchung@gmail.com)
+**Applications:** Cover letter, detailed CV and contact information for up to 2 references should be sent to Dr. Yongchul G. Chung (drygchung@gmail.com)
 
 산업통상자원부 알키미스트 "저온 암모니아 합성 및 분해" 프로젝트를 수행 할 **박사후연구원 1명**을 모집 중입니다.
 
@@ -29,7 +29,6 @@ Position is for 12 months with a possibility of renewal for the second year.
 - 관련 전공분야 (화공,화학,재료,물리) 박사학위 소지자 또는 박사 졸업 예정 자.
 - 최근 3년 이내 SCIE논문 주저자로 게재 실적이 있는 자.
 - Periodic DFT 소프트웨어 (Quantum Espresso, CP2K, VASP등)기반 계산 결과로 논문 작성 경험 있는 자.
-- 촉매 설계 또는 촉매 공학 관련 연구 경험 우대.
 
 **근무조건**
 - 근무지: 부산대학교 화공생명공학부
@@ -52,9 +51,8 @@ Position is for 12 months with a possibility of renewal for the second year.
 1. 계산화학 기반 촉매 설계 및 반응공학 (석/박 통합과정 1명)
 - 신소재 기반 산소환원 촉매 연구
 - 다공성 소재 (MOF, ZIF) 기반 이산화탄소 고정화 (CO2 fixation) 연구
-2. 계산화학 기반 나노물질 합성 예측 및 광화학 물성 예측 (석사과정 1명)
-- 계산화학 기반 다공성 소재 합성 예측
-- 이차원 소재 광화학 물성 예측
+2. 머신러닝 기반 고분자 물성 예측 (석사과정 1명)
+- 머신러닝 기반 고분자 블렌드 물성 예측
 
 **지원자격**
 - 데이터과학 및 계산화학을 활용한 공학문제 해결에 대한 학문적 흥미와 열정을 가진 자.
