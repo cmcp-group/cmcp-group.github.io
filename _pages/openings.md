@@ -5,7 +5,7 @@ excerpt: "Computational Materials and Chemical Processes Lab -- Opening"
 sitemap: false
 permalink: /openings/
 ---
-### ** 석박통합 및 석사과정 대학원생 (Graduate Students)**
+### **석박통합 및 석사과정 대학원생 (Graduate Students)**
 
 **2020/10/16**
 
@@ -19,8 +19,8 @@ permalink: /openings/
 - 석/박통합과정 1명
 
 **지원자격**
-- 데이터과학 및 계산화학을 활용한 공학문제 해결에 대한 학문적 흥미와 열정을 가진 자.
-- 화공, 화학, 재료 관련 학사 또는 석사 졸업생 또는 졸업 예정자 (2021년 3월 입학 가능자).
+- 인공지능을 활용한 공학문제 해결에 대한 학문적 흥미와 열정을 가진 자.
+- 화공, 화학, 고분자 학사 또는 석사 졸업생 또는 졸업 예정자 (2021년 3월 입학 가능자).
 
 **혜택**
 - 전액등록금 (별도) 및 생활비 (석사: 80만 + @, 박사: 120만 + @) 지원
