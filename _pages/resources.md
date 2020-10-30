@@ -10,6 +10,7 @@ Link last updated on September, 2020
 
 ### Databases of Materials
 - [CoRE MOF](https://cmcp-group.github.io/CoRE-MOFs/)
+- [QMOF](https://github.com/arosen93/QMOF)
 - [CSD MOF subset](https://sites.google.com/view/csdmofsubset/home)
 - [ToBaCCo MOF](https://github.com/tobacco-mofs/tobacco_3.0)
 - [CURATED-COF](https://github.com/danieleongari/CURATED-COFs)
