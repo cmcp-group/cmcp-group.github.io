@@ -5,14 +5,14 @@ excerpt: "Computational Materials and Chemical Processes Lab -- Research"
 sitemap: false
 permalink: /research/
 ---
-### Research
+### Current Research Topics
 
-우리 연구실은 다음 연구 주제들에 대해 연구하고 있습니다.
+- Performance and Structural Analyses of Nanoporous Materials using ML/AI/Big Data
+- Multi-scale Adsorbent Systems Modeling and Open-source Software Development for Next-Generation Gas Separation/Purification
+- 2D Materials for Chemical Sensing
+- Metallocene Catalysis for Polyolefin Polymerization
+- Low-Temperature Ammonia Synthesis and Decomposition
 
-- ML/AI/Big Data 기반 다공성 신소재 구조 분석 및 성능 연구 (Performance and Structural Analyses of Nanoporous Materials using ML/AI/Big Data)
-- 차세대 가스 분리/정제를 위한 멀티스케일 흡착 공정 시스템 모델링 및 오픈소스 소프트웨어 개발 연구 (Multi-scale Adsorbent Systems Modeling and Open-source Software Development for Next-Generation Gas Separation/Purification)
-- 이차원 소재의 광화학 센서 연구 (2D Materials for Chemical Sensing)
-- 폴리올레핀 중합 반응 연구 (Metallocene Catalysis for Polyolefin Polymerization)
-- 저온 암모니아 합성/분해 연구 (Low-Temperature Ammonia Synthesis and Decomposition)
+We are committed to open data, open science, and reproducible research with on-line documentation. Almost all simulation input/output data can be found from the github link below.
 
-우리 연구실은 open data, open science, reproducible science를 추구하며 연구에서 생성되는 데이터를 보존하고 원하는 연구자면 충분히 논문에 보고된 결과를 재생성할 수 있도록 계산 및 실험 결과의 문서화에 노력을 기울이고 있습니다.
+https://github.com/cmcp-group/data-repository
