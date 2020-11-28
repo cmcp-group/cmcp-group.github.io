@@ -31,7 +31,7 @@ permalink: /openings/
 
 **2020/11/30**
 
-We are currently looking for a postdoctoral researcher to work on **"Computational Discovery of Low-GWP Gas" sponsored by KEPCO**, Korea Electric Power Company. The position is open for an **early 2021 (ideally January - March, but flexible) start date** for an initial **one-year contract** that is renewable upon mutual agreement to work on a 3-year project.
+We are currently looking for a postdoctoral researcher to work on **"Computational Discovery of Low-GWP Gas" sponsored by KEPCO**, Korea Electric Power Company. The position is open for an **early 2021 (ideally January - March, but flexible) starting date** for an initial **one-year contract** that is renewable upon mutual agreement to work on a 3-year project.
 
 This project aims to combine **high-throughput computational screening with machine learning to discover high-performing gas for electric industry**.
 
