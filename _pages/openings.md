@@ -28,7 +28,7 @@ permalink: /openings/
 
 ### **박사후연수생 (Postdoctoral Researcher)**
 **2020/11/30**
-- We are currently looking for a postdoctoral researcher to work on "Computational discovery of low-GWP insulating Gas" sponsored by KEPCO.
+- We are currently looking for a postdoctoral researcher to work on "Computational discovery of low-GWP Gas" sponsored by KEPCO.
 - The position is open for an early 2021 (ideally January) start date for an initial one-year contract that is renewable upon mutual agreement to work on a 3-year project. This project aims to combine high-throughput computational screening with machine learning to discover high-performing insulating gas molecules.
 - Candidates with a proven track-record in one or more of the following areas are sought after: high-throughput screening, electronic structure theory & application, molecular simulation (MD/MC), and machine learning.
 - Required Skills: Strong scientific programming skills (preferably in Python or any other open source languages)
