@@ -54,9 +54,10 @@ We leverage multi-scale modeling methods combined with Machine Learning (ML), Ar
 </div>
 
 
-우리 연구실은 **한국연구재단**, **BK21 FOUR**, **산업통상자원부**, **한국생산기술연구소**의 지원을 받고 있습니다. 컴퓨터 자원은 **한국과학기술정보연구원 (KISTI)**으로 부터 지원 받고 있습니다.
+우리 연구실은 **한국연구재단**, **BK21 FOUR**, **산업통상자원부**, **한국전력연구원**의 지원을 받고 있습니다. 컴퓨터 자원은 **한국과학기술정보연구원 (KISTI)**으로 부터 지원 받고 있습니다.
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/NRF-korea.png" style="width: 200px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/KITECH.jpg" style="width: 200px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/MOTIE.jpg" style="width: 200px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/KORE1.png" style="width: 200px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/KEPCO.png" style="width: 200px">
 </figure>
