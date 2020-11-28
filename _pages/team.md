@@ -108,6 +108,10 @@ Jump to [members](#Members), and [alumni](#alumni).
   <h4>{{ member.name }}</h4>
   {{ member.info }} <br>
   <b>after CMCP Lab:</b> {{ member.after_CMCP_lab }} <br>
+  {% if member.number_educ == 2 %}
+  <li> {{ member.education1 }} </li>
+  <li> {{ member.education2 }} </li>
+  {% endif %}
 
   <ul style="overflow: hidden">
 
