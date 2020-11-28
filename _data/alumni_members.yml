@@ -7,28 +7,7 @@
 
 - name: 남*명
   photo: empty_profile.png
-  project: Screening of SF<sub>6</sub>/N<sub>2</sub> separation
   after_CMCP_lab: 울산 한국제지 기술연구소
   number_educ: 2
   education1: M.S., Chemical Engineering, Pusan National University, 2019
   education2: B.S., Kyungpook National University, 2017
-
-- name: 권혁* (학연과정, 한국생산기술연구소 울산, 친환경재료공정연구그룹)
-  photo: empty_profile.png
-  after_CMCP_lab: -
-  number_educ: 2
-  education1: M.S., Chemical Engineering, Pusan National University, 2021
-  education2: B.S., Chemical Engineering, Pukyung National University, 2019
-
-- name: 제현* (학연과정, 재료연구소 창원)
-  photo: empty_profile.png
-  after_CMCP_lab: -
-  number_educ: 1
-  education1: M.S., Chemical Engineering, Pusan National University, 2019
-
-- name: 강세* (학연과정, 한국생산기술연구소 울산, 친환경재료공정연구그룹)
-  photo: empty_profile.png
-  after_CMCP_lab: -
-  number_educ: 2
-  education1: M.S., Chemical Engineering, Pusan National University, 2019
-  education2: B.S., Chemical Engineering, Pusan National University, 2017
