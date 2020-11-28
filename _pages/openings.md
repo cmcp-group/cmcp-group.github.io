@@ -21,15 +21,19 @@ permalink: /openings/
 - 화공, 화학, 고분자 학사 또는 석사 졸업생 또는 졸업 예정자 (2021년 3월 입학 가능자).
 
 **혜택**
-- 전액등록금 (별도) 및 생활비 (석사: 80만, 박사: 140만) 지원
+- 전액등록금 (별도) 및 생활비 지원
 
 **원서접수**
 - 전기모집: 2020년 12월 7일 (월) ~ 2020년 12월 10일 (목)
 
 ### **박사후연수생 (Postdoctoral Researcher)**
-**2020/11/06**
-
-The group currently has no funding to support a postdoctoral researcher. If you are interested in working with us, however, we may be able to apply for external funding. Please send a detailed CV and a statement of interest to drygchung (at) gmail.com
+**2020/11/30**
+- We are currently looking for a postdoctoral researcher to work on "Computational discovery of low-GWP insulating Gas" sponsored by KEPCO.
+- The position is open for an early 2021 (ideally January) start date for an initial one-year contract that is renewable upon mutual agreement to work on a 3-year project. This project aims to combine high-throughput computational screening with machine learning to discover high-performing insulating gas molecules.
+- Candidates with a proven track-record in one or more of the following areas are sought after: high-throughput screening, electronic structure theory & application, molecular simulation (MD/MC), and machine learning.
+- Required Skills: Strong scientific programming skills (preferably in Python or any other open source languages)
+- Applicants should have a Ph.D. in computational chemistry, chemical engineering, or related field.
+- Interested candidate should send a detailed CV with a publication list (which includes a full authorship list and titles) to drygchung (at) gmail.com
 
 ### **학부연구생**
 
