@@ -33,7 +33,7 @@ permalink: /openings/
 
 We are currently looking for a postdoctoral researcher to work on **"Computational Discovery of Low-GWP Gas" sponsored by KEPCO**, Korea Electric Power Company. The position is open for an **early 2021 (ideally January - March, but flexible) start date** for an initial **one-year contract** that is renewable upon mutual agreement to work on a 3-year project.
 
-This project aims to combine **high-throughput computational screening with machine learning to discover high-performing gas molecules for electric application**.
+This project aims to combine **high-throughput computational screening with machine learning to discover high-performing gas for electric industry**.
 
 Candidates with a proven track-record in one or more of the following areas are sought after: **high-throughput screening, electronic structure theory & application, molecular simulation (MD/MC), machine learning**. Strong scientific programming skills (preferably in Python or any other open source languages) are required for the position.
 
