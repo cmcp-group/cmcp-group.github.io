@@ -28,12 +28,10 @@ permalink: /openings/
 
 ### **박사후연수생 (Postdoctoral Researcher)**
 **2020/11/30**
-- We are currently looking for a postdoctoral researcher to work on "Computational discovery of low-GWP Gas" sponsored by KEPCO.
-- The position is open for an early 2021 (ideally January) start date for an initial one-year contract that is renewable upon mutual agreement to work on a 3-year project. This project aims to combine high-throughput computational screening with machine learning to discover high-performing insulating gas molecules.
-- Candidates with a proven track-record in one or more of the following areas are sought after: high-throughput screening, electronic structure theory & application, molecular simulation (MD/MC), and machine learning.
-- Required Skills: Strong scientific programming skills (preferably in Python or any other open source languages)
-- Applicants should have a Ph.D. in computational chemistry, chemical engineering, or related field.
-- Interested candidate should send a detailed CV with a publication list (which includes a full authorship list and titles) to drygchung (at) gmail.com
+We are currently looking for a postdoctoral researcher to work on "Computational Discovery of Low-GWP Gas" sponsored by KEPCO, Korea Electric Power Company. The position is open for an early 2021 (ideally January but flexible) start date for an initial one-year contract that is renewable upon mutual agreement to work on a 3-year project. This project aims to combine high-throughput computational screening with machine learning to discover high-performing gas molecules for electric application.
+Candidates with a proven track-record in one or more of the following areas are sought after: high-throughput screening, electronic structure theory & application, molecular simulation (MD/MC), and machine learning. Strong scientific programming skills (preferably in Python or any other open source languages) is required for the position.
+
+Applicants should have a Ph.D. in computational chemistry, chemical engineering, or related field. Interested candidate should send a detailed CV with a publication list (which includes a full authorship list and titles) to drygchung (at) gmail (dot) com
 
 ### **학부연구생**
 
