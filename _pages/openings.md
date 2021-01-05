@@ -7,13 +7,13 @@ permalink: /openings/
 ---
 ### **석박통합 및 석사과정 대학원생 (Graduate Students)**
 
-- 최근 졸업생 진로: (석사) SK Innovation, (석사) 한국제지 기술연구소
+최근 졸업생 진로: (석사) SK Innovation, (석사) 한국제지 기술연구소
 
 ### **박사후연수생 (Postdoctoral Researcher)**
 
-**2020/11/30**
+**2021/01/05**
 
-We are currently looking for a postdoctoral researcher to work on **"Computational Discovery of Low-GWP Gas" sponsored by KEPCO**, Korea Electric Power Company. The position is open for an **early 2021 (ideally January - March, but flexible) starting date** for an initial **one-year contract** that is renewable upon mutual agreement to work on a 3-year project.
+We are currently looking for a postdoctoral researcher to work on **"Computational Discovery of Low-GWP Gas" sponsored by KEPCO**, Korea Electric Power Company. The position is open for an **early 2021 (ideally March - May, but flexible) starting date** for an initial **one-year contract** that is renewable upon mutual agreement to work on a 3-year project.
 
 This project aims to combine **high-throughput computational screening with machine learning to discover high-performing gas for electric industry**.
 
