@@ -8,7 +8,7 @@ permalink: /
 
 **계산소재 및 화학공정 연구실에 오신 것을 환영합니다!**
 
-We leverage multi-scale modeling methods combined with Machine Learning (ML), Artificial Intelligent (AI), and Big Data approaches to model the next-generation materials and processes for gas purification/separation, energy storage, and catalysis (see [Research](research)).
+The group leverages multi-scale computational modeling methods combined with Machine Learning (ML), Artificial Intelligent (AI), and Big Data to model and evaluate the next-generation materials and processes for gas purification/separation, energy storage, and catalysis (see [Research](research)).
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
     <!-- Menu -->
@@ -56,8 +56,8 @@ We leverage multi-scale modeling methods combined with Machine Learning (ML), Ar
 
 우리 연구실은 **한국연구재단**, **BK21 FOUR**, **산업통상자원부**, **한국전력연구원**의 지원을 받고 있습니다. 컴퓨터 자원은 **한국과학기술정보연구원 (KISTI)**으로 부터 지원 받고 있습니다.
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/NRF-korea.png" style="width: 200px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/MOTIE.jpg" style="width: 200px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/KORE1.png" style="width: 200px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/KEPCO.png" style="width: 200px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/NRF-korea.png" style="width: 150px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/MOTIE.jpg" style="width: 150px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/KORE1.png" style="width: 150px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/KEPCO.jpg" style="width: 150px">
 </figure>
