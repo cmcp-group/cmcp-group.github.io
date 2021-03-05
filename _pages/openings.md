@@ -9,11 +9,11 @@ permalink: /openings/
 
 **posted: 2021/03/04**
 
-우리 연구실은 2021년 하반기 (9월 시작)에 입학할 석사 또는 석박통합 학생 2명을 모집중에 있습니다.
-- C1 리파이너리 (CO/CO2 흡착분리공정 실험 및 모델링) 1명 (석사 또는 석박통합)
-- Low-GWP 가스 개발 (분자모델링 및 AI 기반 분자 설계) 1명 (석박통합)
+우리 연구실은 아래와 같이 2021년 하반기 (9월 시작)에 입학할 석사 또는 석박통합 학생 2명을 모집중에 있습니다.
+- C1 리파이너리 (C1가스 압력순환공정 실험) 1명 (석사 또는 석박통합)
+- 다공성 소재 촉매 계산 (DFT 기반 촉매 시스템 모델링) 1명 (석박통합)
 
-관심 있는 졸업생 또는 졸업 예정학생은 윤성현 학생 (tjdgusdbs8810@gmail.com) 으로 문의 바랍니다.
+관심 있는 졸업생 또는 졸업예정학생은 정용철 교수님 (drygchung@gmail.com)께 문의 바랍니다.
 
 - **최근 졸업생 진로:** (석사) SK Innovation, (석사) 한국제지 기술연구소
 
@@ -21,7 +21,7 @@ permalink: /openings/
 
 **posted: 2021/03/04**
 
-Currently, we do not have openings, but interested candidates should inquire about a position via email (drygchung@gmail) with the statement of research, a CV, and a list of 3 references.
+Currently, we do not have any openings, but interested candidates may inquire about a position via email (drygchung@gmail) with the statement of research, a CV, and a list of 3 references.
 
 ### **학부연구생**
 
